@@ -20,6 +20,12 @@ Due to the size limit of Github, only two events files are uploaded in this repo
 
 for example:
 
+```bash
+# figure 3
+python Figure3_prediction_comparison.py
+
+```
+
 <p align="center">
 <img src="./comparison_plots/comparison_event_039.png" height = "360" alt="" align=center />
 <br><br>
