@@ -15,7 +15,8 @@ This repository provide example code to run model visualizations and source data
 
 ## Brief description of relevant library files
 
-
+run Figure3-5.py can generate figures used in this study using inference data predicted by different models.
+Due to the size limit of Github, only two events files are uploaded in this repo. For Full inference file, you can download in this googledrive link:
 
 
 
